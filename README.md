@@ -11,10 +11,10 @@ www.github.com/jabedkhanjb
 
 ## Dataset Analysis (Exploratory data analysis (EDA))
 
-![Image 1](Iris SS/img 1.jpg)
+![Image 1](Iris_SS/img1.jpg)
 
-![Image 2](Iris SS/img 2.jpg)
+![Image 1](Iris_SS/img2.jpg)
 
-![Image 3](Iris SS/img 3.jpg)
+![Image 1](Iris_SS/img3.jpg)
 
-![Image 4](Iris SS/img 4.jpg)
+![Image 1](Iris_SS/img4.jpg)
